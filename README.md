@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Asghar Rahimi
 
-<!--
-**aar7-7/aar7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring front-end developer with a strong interest in creating clean, responsive, and user-friendly web interfaces. I’m currently building my skills in **HTML**, **CSS**, **JavaScript**, and **React** — all from the ground up.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🌱 Currently learning **React**
+- 🔧 Improving my **HTML**, **CSS**, and **JavaScript** fundamentals
+- 🧩 Building real projects to sharpen my skills and grow my portfolio
+
+---
+
+## 💡 Skills (In Progress)
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+
+> 💬 Still in the early stages of my front-end journey — eager to learn and grow!
+
+---
+
+## 📌 Featured Project
+
+[![front-end-project](https://github-readme-stats.vercel.app/api/pin/?username=aar7-7&repo=front-end-project)](https://github.com/aar7-7/front-end-project)
+
+---
+
+## 📊 GitHub Stats
+
+![AAR77's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aar7-7&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [aliasgharrahimi34@gmail.com](mailto:aliasgharrahimi34@gmail.com)  
+- 💼 LinkedIn: [Ali Asghar Rahimi](https://www.linkedin.com/in/ali-asghar-rahimi-3239aa225/)
+
+---
+
+> 🎯 I'm currently looking for a **front-end internship** (open to unpaid opportunities) to gain real-world experience and contribute to meaningful projects.
