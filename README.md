@@ -25,8 +25,7 @@ I'm an aspiring front-end developer with a strong interest in creating clean, re
 
 ## 📌 Featured Project
 
-[![front-end-project](https://github-readme-stats.vercel.app/api/pin/?username=aar7-7&repo=front-end-project)](https://github.com/aar7-7/front-end-project)
-
+🔗 [front-end-project](https://github.com/aar7-7/front-end-project): A simple front-end project I’m working on to practice HTML, CSS, and JavaScript fundamentals.
 ---
 
 ## 📊 GitHub Stats
