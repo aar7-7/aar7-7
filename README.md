@@ -25,7 +25,37 @@ I'm an aspiring front-end developer with a strong interest in creating clean, re
 
 ## 📌 Featured Project
 
-🔗 [front-end-project](https://github.com/aar7-7/front-end-project): A simple front-end project I’m working on to practice HTML, CSS, and JavaScript fundamentals.
+🔗 [front-end-project](https://github.com/aar7-7/front-end-project)
+
+---
+# 🎨 Front-End Practice Project
+
+A clean and simple front-end project built using HTML, CSS, and JavaScript. Designed to help me learn layout, styling, and basic interactivity.
+
+---
+
+## 🖼️ Preview
+
+Coming soon: Will be hosted on GitHub Pages.
+
+---
+
+## 📁 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (DOM, Light/Dark Mode)
+
+---
+
+## ✨ Features
+
+- 🔥 Hero section with call-to-action
+- 🌙 Dark mode toggle
+- 🎨 Responsive layout with modern design
+- 🧱 Simple card-style features section
+- ⚡ Clean folder structure and code
+
 ---
 
 ## 📊 GitHub Stats
