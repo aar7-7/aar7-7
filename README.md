@@ -27,7 +27,6 @@ I'm an aspiring front-end developer with a strong interest in creating clean, re
 
 🔗 [front-end-project](https://github.com/aar7-7/front-end-project)
 
----
 # 🎨 Front-End Practice Project
 
 A clean and simple front-end project built using HTML, CSS, and JavaScript. Designed to help me learn layout, styling, and basic interactivity.
@@ -57,6 +56,14 @@ Coming soon: Will be hosted on GitHub Pages.
 - ⚡ Clean folder structure and code
 
 ---
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aar7-7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aar7-7&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aar7-7&theme=react-dark)
+
 
 ## 📊 GitHub Stats
 
